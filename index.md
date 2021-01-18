@@ -16,7 +16,9 @@ D-1564 se acerca a la celda de contencion de SCP-6942 para interrogarla.
 ```
 D-1564: Hola, cual es tu nombre?
 SCP-6942: No entiendo por que estoy aqui, lo unico que hice fue hacer un dibujo
-D-1564: Yo se que puede ser difícil de comprender al principio, pero tienes que entender que el dibujo que hiciste es muy perfecto como para ser hecho por un humano, ademas, tu dibujo ha probado tener caracteristicas anormales. Por favor, responde la pregunta
+D-1564: Yo se que puede ser difícil de comprender al principio, pero tienes que entender que el
+dibujo que hiciste es muy perfecto como para ser hecho por un humano, ademas, tu dibujo ha probado
+tener caracteristicas anormales. Por favor, responde la pregunta
 SCP-6942: Mi  nombre es S⬜⬜⬜⬜⬜⬜
 D-1564: Muy bien, nos podrias decir cual fue la inspiracion detras de esto?
 SCP-6942: Es que no hubo inspiracion, literalmente, solo hice lo que se me vino a la mente\
