@@ -1,7 +1,7 @@
 # SCP-6942-1
 SCP-6942-1 es un dibujo creado por SCP-6942, segun los testimonios de 6942, lo hizo a mano, pero debido a la perfecta naturaleza de dicho dibujo, se tacho de imposible y la creadora (SCP-6942) fue contenida en el Sitio ⬜2, con el objetivo de interrogarla (vease Log-1).
 
-![SCP-6942-1](/assets/scp-6942-1.png)
+![SCP-6942-1](https://cdn.discordapp.com/attachments/796214527250923521/800813189767233546/NE.png)
 
 SCP-6942-1 es clase Taumiel por que ha probado relajar a SCP-096 y traerlo de vuelta a su estado de relajacion, asi como protejer a su portador de entrar a la dimension de bolsillo de SCP-106. Aunque SCP-6942-1 no provee inmortalidad a su portador, puede protegerlo de diversas amenazas, como SCP-106 y SCP-096, ademas de aumentar la salud del portador en general.
 
