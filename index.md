@@ -23,7 +23,7 @@ dibujo que hiciste es muy perfecto como para ser hecho por un humano, ademas, tu
 tener caracteristicas anormales. Por favor, responde la pregunta
 SCP-6942: Mi  nombre es S⬜⬜⬜⬜⬜⬜
 D-1564: Muy bien, nos podrias decir cual fue la inspiracion detras de esto?
-SCP-6942: Es que no hubo inspiracion, literalmente, solo hice lo que se me vino a la mente\
+SCP-6942: Es que no hubo inspiracion, literalmente, solo hice lo que se me vino a la mente
 D-1564: De acuerdo, has hecho alguna obra parecida a SCP-6942-1 antes?
 SCP-6942: No, nunca
 D-1564: OK, eso es todo por hoy, gracias
