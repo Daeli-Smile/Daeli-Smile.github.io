@@ -13,6 +13,7 @@ A SCP-6942 no se le permite salir del Sitio ⬜2, ya que sigue siendo estudiada,
 
 D-1564 se acerca a la celda de contencion de SCP-6942 para interrogarla.
 
+```
 D-1564: Hola, cual es tu nombre?
 SCP-6942: No entiendo por que estoy aqui, lo unico que hice fue hacer un dibujo
 D-1564: Yo se que puede ser difícil de comprender al principio, pero tienes que entender que el dibujo que hiciste es muy perfecto como para ser hecho por un humano, ademas, tu dibujo ha probado tener caracteristicas anormales. Por favor, responde la pregunta
@@ -28,6 +29,7 @@ D-1564: Eso depende de el resultado de los estudios
 (D-1564 sale por la puerta y la cierra detras de el)
 SCP-6942: Cuales est...
 (SCP-6942 cae inconsiente debido al gas tranquilizante que ha sido inyectado en la celda)
+```
 
 # Log-2
 Tras hacerse con el archivo original de SCP-6942-1, recuperado de la computadora de SCP-6942, se es llevado a el Sitio ⬜2 para investigacion.
