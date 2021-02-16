@@ -6,7 +6,8 @@
   color: #8fbce6;
 }
 
-h1{
+h1.titulo{
  color:#FF0000;
  font-size:15em;
+ text-align:center;
 }
